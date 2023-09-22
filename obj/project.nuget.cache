@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2QdMo4n2pIsAKRQSUH1i97LQlISfjbA4if92AUo4xXxR05IpOtycvy9cJpIoYvFoUH1kezd15AC4j7fXaEJhbA==",
+  "dgSpecHash": "Sz3iNdiUbcuA87p89fPPZTBrMHXakFbylZERgTr1gMQuXY60Z7uPGp2xM0ww08tcL8QnXrI7gviD4nNbu2EnaQ==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\cs\\InduMovel\\InduMovel.csproj",
+  "projectFilePath": "c:\\Dev\\cs\\InduMovel\\InduMovel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aluno Dev\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Aluno Dev\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
